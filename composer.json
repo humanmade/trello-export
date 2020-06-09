@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "league/csv": "^9.6"
+    }
+}
